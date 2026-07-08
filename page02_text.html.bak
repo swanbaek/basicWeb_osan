@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!-- page02_text.html -->
+<!--  -->
+<html>
+    <head>
+        <title>page02_text.html</title>
+    </head>
+    <body>
+        <h1>text관련 태그</h1>
+        <!-- block요소 -->
+        <h1>Heading 1</h1>
+        <h2>Heading 2</h2>
+        <h3>Heading 3</h3>
+        <h4>Heading 4</h4>
+        <h5>Heading 5</h5>
+        <h6>Heading 6</h6>
+        <hr>
+
+        normal 텍스트입니다
+        <!-- inline 요소 -->
+        <i>italic</i>텍스트입니다
+        <em>em텍스트</em>입니다
+        <strong>strong텍스트</strong>입니다        
+        <b>bold텍스트</b>입니다<br>
+        <ins>밑줄 그은 문자</ins>를 만들어요
+        <del>취소선</del>을 만들어요
+        <strike>strike 태그</strike>입니다
+        <br>        
+        <hr color="red">
+        <!-- hr:수평선. 블록 요소 -->
+        이메일:<address>swanbaek@naver.com</address><!-- 이메일 주소, 전화번호, SNS 링크 등 연락을 취할 수 있는 모든 정보를 address태그안에 기술한다 -->
+        <!-- 이메일/웹사이주소/연락처 등을 의미적으로 표시 -->
+        <!-- 인용문구 사용시 blockquote태그 이용. indent가 자동으로 들어감-->
+        <blockquote><!-- 화면에서 '큰 덩어리'로 인용구역을 만드는 태그 -->
+            <p>
+                홍길동이 말했습니다
+                <q>삶은 스스로 만들어 가는거야</q><br> <!-- 쌍따옴표(quote): q -->
+                <cite>-홍길동의 행복학 개론 중에서-</cite>  <!-- 인용출처: cite -->              
+            </p>
+        </blockquote>
+        <hr color="blue">
+        <h2>공백문자 - 엔티티문자 사용</h2>
+        <p>글자 사이에 간격을 두고 싶을 때는 &amp;nbsp; 를 사용합니다
+            <br>
+            &copy; 2026. Swan All rights reserved
+        </p>
+
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    </body>
+</html>
+
+
+
+
+
