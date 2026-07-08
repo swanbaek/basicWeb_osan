@@ -6,6 +6,10 @@
 
 - https://github.com/swanbaek/basicWeb_osan.git
 
+## 교안
+
+- 교안: [1_1. 웹 퍼블리싱 (HTML).pdf](pdf/1_1.%20웹%20퍼블리싱%20%28HTML%29.pdf)
+
 ## 파일 구성
 
 - `page01.html` : 제목, 문단, 줄바꿈, 주석 등 HTML 기초
